@@ -1,0 +1,1 @@
+python exec.py --mode train --exp_source experiments/multiorgan_exp --exp_dir /home/bastian/models/dettoolkit
